@@ -1,0 +1,4 @@
+name: GameSystem
+version: '${project.version}'
+main: me.djelectro.gamesystem.core.Main
+api-version: '1.20'
